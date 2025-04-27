@@ -1,0 +1,6 @@
+@RNPM.Core_HostAddress = http://localhost:5068
+
+GET {{RNPM.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
