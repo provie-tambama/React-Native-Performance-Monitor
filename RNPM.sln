@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{5C70F494-956C-4FD6-8291-0835F49B97CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C868A160-A5AB-4F1E-ADAD-DE564B1814D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNPM.Services.Core", "RNPM.Services.Core\RNPM.Services.Core.csproj", "{62D5F314-FED8-481D-A3E8-24CC1F40A7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNPM.Common", "RNPM.Common\RNPM.Common.csproj", "{75F5AB10-174C-4EC1-BB13-68312A2AA78C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{6FE8E6B4-69C9-49B1-A0CF-C016A3026CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNPM.Web", "RNPM.Web\RNPM.Web.csproj", "{C5B2AF17-9CD7-47E5-A9CB-4112542AF41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D5F314-FED8-481D-A3E8-24CC1F40A7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D5F314-FED8-481D-A3E8-24CC1F40A7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D5F314-FED8-481D-A3E8-24CC1F40A7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D5F314-FED8-481D-A3E8-24CC1F40A7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F5AB10-174C-4EC1-BB13-68312A2AA78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F5AB10-174C-4EC1-BB13-68312A2AA78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F5AB10-174C-4EC1-BB13-68312A2AA78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F5AB10-174C-4EC1-BB13-68312A2AA78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B2AF17-9CD7-47E5-A9CB-4112542AF41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B2AF17-9CD7-47E5-A9CB-4112542AF41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B2AF17-9CD7-47E5-A9CB-4112542AF41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B2AF17-9CD7-47E5-A9CB-4112542AF41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{62D5F314-FED8-481D-A3E8-24CC1F40A7BB} = {C868A160-A5AB-4F1E-ADAD-DE564B1814D2}
+		{75F5AB10-174C-4EC1-BB13-68312A2AA78C} = {5C70F494-956C-4FD6-8291-0835F49B97CC}
+		{C5B2AF17-9CD7-47E5-A9CB-4112542AF41D} = {6FE8E6B4-69C9-49B1-A0CF-C016A3026CF3}
+	EndGlobalSection
+EndGlobal

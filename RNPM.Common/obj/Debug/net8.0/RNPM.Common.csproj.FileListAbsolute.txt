@@ -1,0 +1,12 @@
+/Users/provie17/RNPM/RNPM.Common/bin/Debug/net8.0/RNPM.Common.deps.json
+/Users/provie17/RNPM/RNPM.Common/bin/Debug/net8.0/RNPM.Common.dll
+/Users/provie17/RNPM/RNPM.Common/bin/Debug/net8.0/RNPM.Common.pdb
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/RNPM.Common.csproj.AssemblyReference.cache
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/RNPM.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/RNPM.Common.AssemblyInfoInputs.cache
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/RNPM.Common.AssemblyInfo.cs
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/RNPM.Common.csproj.CoreCompileInputs.cache
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/RNPM.Common.dll
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/refint/RNPM.Common.dll
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/RNPM.Common.pdb
+/Users/provie17/RNPM/RNPM.Common/obj/Debug/net8.0/ref/RNPM.Common.dll

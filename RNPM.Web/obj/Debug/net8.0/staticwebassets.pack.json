@@ -1,0 +1,2025 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/obj/Debug/net8.0/scopedcss/projectbundle/RNPM.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets/RNPM.Web.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/.DS_Store",
+      "PackagePath": "staticwebassets/assets/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/app.min.css",
+      "PackagePath": "staticwebassets/assets/css/default/app.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/bg-login-dark-mode.png",
+      "PackagePath": "staticwebassets/assets/css/default/images/bg-login-dark-mode.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/bg-login.png",
+      "PackagePath": "staticwebassets/assets/css/default/images/bg-login.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/coming-soon.jpg",
+      "PackagePath": "staticwebassets/assets/css/default/images/coming-soon.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/cover-pattern.png",
+      "PackagePath": "staticwebassets/assets/css/default/images/cover-pattern.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/cover-sidebar-user.jpg",
+      "PackagePath": "staticwebassets/assets/css/default/images/cover-sidebar-user.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/cover-sidebar.jpg",
+      "PackagePath": "staticwebassets/assets/css/default/images/cover-sidebar.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/error-page-pattern.png",
+      "PackagePath": "staticwebassets/assets/css/default/images/error-page-pattern.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/default/images/profile-cover.jpg",
+      "PackagePath": "staticwebassets/assets/css/default/images/profile-cover.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/css/vendor.min.css",
+      "PackagePath": "staticwebassets/assets/css/vendor.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/.DS_Store",
+      "PackagePath": "staticwebassets/assets/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/cover/cover-scrum-board.png",
+      "PackagePath": "staticwebassets/assets/img/cover/cover-scrum-board.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/flag/cn.jpg",
+      "PackagePath": "staticwebassets/assets/img/flag/cn.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/flag/de.jpg",
+      "PackagePath": "staticwebassets/assets/img/flag/de.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/flag/fr.jpg",
+      "PackagePath": "staticwebassets/assets/img/flag/fr.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/flag/jp.jpg",
+      "PackagePath": "staticwebassets/assets/img/flag/jp.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/flag/us.jpg",
+      "PackagePath": "staticwebassets/assets/img/flag/us.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-1-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-1-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-1.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-10-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-10-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-10.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-10.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-11-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-11-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-11.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-11.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-12-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-12-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-12.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-12.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-13-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-13-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-13.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-13.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-14-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-14-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-14.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-14.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-15-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-15-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-15.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-15.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-16-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-16-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-16.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-16.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-17-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-17-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-17.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-17.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-18-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-18-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-19-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-19-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-2-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-2-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-2.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-20-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-20-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-21-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-21-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-22-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-22-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-23-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-23-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-24-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-24-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-25-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-25-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-26-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-26-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-27-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-27-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-28-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-28-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-29-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-29-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-3-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-3-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-3.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-30-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-30-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-31-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-31-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-32-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-32-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-33-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-33-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-34-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-34-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-35-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-35-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-36-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-36-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-37-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-37-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-38-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-38-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-39-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-39-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-4-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-4-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-4.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-40-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-40-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-41-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-41-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-42-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-42-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-43-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-43-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-44-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-44-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-45-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-45-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-46-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-46-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-47-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-47-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-48-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-48-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-49-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-49-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-5-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-5-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-5.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-50-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-50-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-51-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-51-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-51.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-51.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-52-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-52-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-52.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-52.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-53-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-53-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-53.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-53.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-54-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-54-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-54.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-54.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-55-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-55-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-55.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-55.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-56-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-56-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-56.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-56.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-57-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-57-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-58-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-58-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-59-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-59-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-6-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-6-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-6.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-6.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-60-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-60-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-61-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-61-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-62-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-62-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-63-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-63-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-64-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-64-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-65-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-65-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-66-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-66-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-67-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-67-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-68-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-68-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-69-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-69-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-7-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-7-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-7.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-7.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-70-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-70-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-8-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-8-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-8.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-8.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-9-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-9-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-9.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-9.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/gallery/gallery-portrait-11-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/gallery/gallery-portrait-11-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-1-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-1-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-10-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-10-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-11.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-11.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-12.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-12.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-13.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-13.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-14.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-14.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-15.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-15.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-16.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-16.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-17.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-17.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-2-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-2-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-3-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-3-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-4-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-4-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/login-bg-7-thumb.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/login-bg-7-thumb.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/login-bg/react-native.jpg",
+      "PackagePath": "staticwebassets/assets/img/login-bg/react-native.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/logo/logo-admin.png",
+      "PackagePath": "staticwebassets/assets/img/logo/logo-admin.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/logo/logo-bs5.png",
+      "PackagePath": "staticwebassets/assets/img/logo/logo-bs5.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-1.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-10.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-10.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-11.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-11.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-12.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-12.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-13.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-13.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-14.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-14.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-15.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-15.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-16.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-16.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-17.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-17.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-2.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-3.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-4.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-5.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-6.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-6.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-7.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-7.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-8.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-8.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/pos/product-9.jpg",
+      "PackagePath": "staticwebassets/assets/img/pos/product-9.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-1.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-1.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-1.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-10.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-10.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-11.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-11.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-12.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-12.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-13.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-13.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-14.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-14.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-15.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-15.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-2.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-2.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-2.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-3.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-3.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-3.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-4.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-4.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-5.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-5.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-6.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-6.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-6.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-6.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-7.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-7.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-7.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-7.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-8.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-8.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-9.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-9.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-preview-iphone.png",
+      "PackagePath": "staticwebassets/assets/img/product/product-preview-iphone.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-preview-sm.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-preview-sm.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/product/product-preview.jpg",
+      "PackagePath": "staticwebassets/assets/img/product/product-preview.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/apple.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/apple.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/blog.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/blog.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/corporate.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/corporate.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/default.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/default.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/e-commerce.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/e-commerce.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/facebook.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/facebook.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/forum.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/forum.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/google.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/google.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/material.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/material.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/one-page-parallax.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/one-page-parallax.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/theme/transparent.jpg",
+      "PackagePath": "staticwebassets/assets/img/theme/transparent.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-1.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-10.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-10.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-11.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-11.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-12.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-12.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-13.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-13.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-14.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-14.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-2.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-3.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-4.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-5.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-6.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-6.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-7.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-7.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-8.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-8.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/user/user-9.jpg",
+      "PackagePath": "staticwebassets/assets/img/user/user-9.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/ajax.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/ajax.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/angular10x.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/angular10x.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/angular1x.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/angular1x.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/django.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/django.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/dotnet.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/dotnet.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/html.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/html.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/laravel.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/laravel.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/reactjs.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/reactjs.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/svelte.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/svelte.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/img/version/vuejs.jpg",
+      "PackagePath": "staticwebassets/assets/img/version/vuejs.jpg"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/.DS_Store",
+      "PackagePath": "staticwebassets/assets/js/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/app.min.js",
+      "PackagePath": "staticwebassets/assets/js/app.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/.DS_Store",
+      "PackagePath": "staticwebassets/assets/js/demo/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/calendar.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/calendar.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/coming-soon.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/coming-soon.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/dash.js",
+      "PackagePath": "staticwebassets/assets/js/demo/dash.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/dashboard.js",
+      "PackagePath": "staticwebassets/assets/js/demo/dashboard.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/email-compose.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/email-compose.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/email-inbox.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/email-inbox.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/file-manager.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/file-manager.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/form-editable.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/form-editable.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/form-multiple-upload.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/form-multiple-upload.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/form-plugins.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/form-plugins.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/form-slider-switcher.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/form-slider-switcher.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/form-summernote.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/form-summernote.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/form-wysiwyg.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/form-wysiwyg.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/gallery-v2.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/gallery-v2.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/gallery.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/gallery.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/login-v2.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/login-v2.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/map-google.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/map-google.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/map-vector.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/map-vector.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/page-data-management.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/page-data-management.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/page-with-two-sidebar.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/page-with-two-sidebar.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/pos-counter-checkout.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/pos-counter-checkout.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/pos-customer-order.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/pos-customer-order.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/pos-header.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/pos-header.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/product-details.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/product-details.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/profile.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/profile.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/render.highlight.js",
+      "PackagePath": "staticwebassets/assets/js/demo/render.highlight.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/sidebar-scrollspy.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/sidebar-scrollspy.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-buttons.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-buttons.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-colreorder.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-colreorder.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-combine.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-combine.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-default.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-default.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-fixed-columns.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-fixed-columns.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-fixed-header.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-fixed-header.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-keytable.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-keytable.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-responsive.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-responsive.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-rowreorder.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-rowreorder.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-scroller.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-scroller.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/table-manage-select.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/table-manage-select.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/timeline.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/timeline.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/ui-tree.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/ui-tree.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/demo/widget.demo.js",
+      "PackagePath": "staticwebassets/assets/js/demo/widget.demo.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/fontawesome.js",
+      "PackagePath": "staticwebassets/assets/js/fontawesome.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/js/vendor.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@ckeditor/ckeditor5-build-classic/build/ckeditor.js",
+      "PackagePath": "staticwebassets/assets/plugins/@ckeditor/ckeditor5-build-classic/build/ckeditor.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@fullcalendar/bootstrap/index.global.js",
+      "PackagePath": "staticwebassets/assets/plugins/@fullcalendar/bootstrap/index.global.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@fullcalendar/core/index.global.js",
+      "PackagePath": "staticwebassets/assets/plugins/@fullcalendar/core/index.global.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@fullcalendar/daygrid/index.global.js",
+      "PackagePath": "staticwebassets/assets/plugins/@fullcalendar/daygrid/index.global.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@fullcalendar/interaction/index.global.js",
+      "PackagePath": "staticwebassets/assets/plugins/@fullcalendar/interaction/index.global.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@fullcalendar/list/index.global.js",
+      "PackagePath": "staticwebassets/assets/plugins/@fullcalendar/list/index.global.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@fullcalendar/timegrid/index.global.js",
+      "PackagePath": "staticwebassets/assets/plugins/@fullcalendar/timegrid/index.global.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/@highlightjs/cdn-assets/highlight.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/@highlightjs/cdn-assets/highlight.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/abpetkov-powerange/dist/powerange.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/abpetkov-powerange/dist/powerange.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/abpetkov-powerange/dist/powerange.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/abpetkov-powerange/dist/powerange.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/apexcharts/dist/apexcharts.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/apexcharts/dist/apexcharts.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-canvas-to-blob/js/canvas-to-blob.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-canvas-to-blob/js/canvas-to-blob.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/css/jquery.fileupload-ui.css",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/css/jquery.fileupload-ui.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/css/jquery.fileupload.css",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/css/jquery.fileupload.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/img/loading.gif",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/img/loading.gif"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/img/progressbar.gif",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/img/progressbar.gif"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.fileupload-audio.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.fileupload-audio.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.fileupload-image.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.fileupload-image.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.fileupload-process.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.fileupload-process.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.fileupload-ui.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.fileupload-ui.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.fileupload-validate.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.fileupload-validate.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.fileupload-video.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.fileupload-video.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.fileupload.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.fileupload.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/jquery.iframe-transport.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-file-upload/js/vendor/jquery.ui.widget.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-file-upload/js/vendor/jquery.ui.widget.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/css/blueimp-gallery.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/css/blueimp-gallery.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/img/close.png",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/img/close.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/img/error.png",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/img/error.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/img/loading.gif",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/img/loading.gif"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/img/next.png",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/img/next.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/img/play-pause.png",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/img/play-pause.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/img/prev.png",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/img/prev.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/img/video-play.png",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/img/video-play.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-gallery/js/jquery.blueimp-gallery.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-gallery/js/jquery.blueimp-gallery.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-load-image/js/load-image.all.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-load-image/js/load-image.all.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/blueimp-tmpl/js/tmpl.js",
+      "PackagePath": "staticwebassets/assets/plugins/blueimp-tmpl/js/tmpl.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-daterangepicker/daterangepicker.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-daterangepicker/daterangepicker.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-daterangepicker/daterangepicker.js",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-daterangepicker/daterangepicker.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-datetime-picker/css/bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-datetime-picker/css/bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-datetime-picker/js/bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-datetime-picker/js/bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-icons/font/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-icons/font/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-icons/font/fonts/bootstrap-icons0107.woff",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-icons/font/fonts/bootstrap-icons0107.woff"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-icons/font/fonts/bootstrap-icons0107.woff2",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-icons/font/fonts/bootstrap-icons0107.woff2"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-social/bootstrap-social.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-social/bootstrap-social.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap3-wysihtml5-bower/dist/bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap3-wysihtml5-bower/dist/bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/bootstrap3-wysihtml5-bower/dist/bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/bootstrap3-wysihtml5-bower/dist/bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/chart.js/dist/chart.umd.js",
+      "PackagePath": "staticwebassets/assets/plugins/chart.js/dist/chart.umd.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/clipboard/dist/clipboard.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/clipboard/dist/clipboard.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/d3/d3.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/d3/d3.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-bs5/css/dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-bs5/css/dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-bs5/js/dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-bs5/js/dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-buttons-bs5/css/buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-buttons-bs5/css/buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-buttons-bs5/js/buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-buttons-bs5/js/buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-buttons/js/buttons.colVis.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-buttons/js/buttons.colVis.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-buttons/js/buttons.flash.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-buttons/js/buttons.flash.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-buttons/js/buttons.html5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-buttons/js/buttons.html5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-buttons/js/buttons.print.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-buttons/js/buttons.print.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-buttons/js/dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-buttons/js/dataTables.buttons.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-colreorder-bs5/css/colReorder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-colreorder-bs5/css/colReorder.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-colreorder-bs5/js/colReorder.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-colreorder-bs5/js/colReorder.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-colreorder/js/dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-colreorder/js/dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-fixedcolumns-bs5/css/fixedColumns.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-fixedcolumns-bs5/css/fixedColumns.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-fixedcolumns-bs5/js/fixedColumns.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-fixedcolumns-bs5/js/fixedColumns.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-fixedcolumns/js/dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-fixedcolumns/js/dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-fixedheader-bs5/css/fixedHeader.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-fixedheader-bs5/css/fixedHeader.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-fixedheader-bs5/js/fixedHeader.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-fixedheader-bs5/js/fixedHeader.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-keytable-bs5/css/keyTable.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-keytable-bs5/css/keyTable.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-keytable-bs5/js/keyTable.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-keytable-bs5/js/keyTable.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-keytable/js/dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-keytable/js/dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-responsive-bs5/js/responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-responsive-bs5/js/responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-responsive/js/dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-responsive/js/dataTables.responsive.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-rowreorder-bs5/css/rowReorder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-rowreorder-bs5/css/rowReorder.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-rowreorder-bs5/js/rowReorder.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-rowreorder-bs5/js/rowReorder.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-rowreorder/js/dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-rowreorder/js/dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-scroller-bs5/css/scroller.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-scroller-bs5/css/scroller.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-scroller-bs5/js/scroller.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-scroller-bs5/js/scroller.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-scroller/js/dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-scroller/js/dataTables.scroller.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-select-bs5/css/select.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-select-bs5/css/select.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-select-bs5/js/select.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-select-bs5/js/select.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net-select/js/dataTables.select.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net-select/js/dataTables.select.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datatables.net/js/dataTables.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datatables.net/js/dataTables.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datepickk/dist/datepickk.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/datepickk/dist/datepickk.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/datepickk/dist/datepickk.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/datepickk/dist/datepickk.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/dropzone/dist/min/dropzone.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/dropzone/dist/min/dropzone.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/dropzone/dist/min/dropzone.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/dropzone/dist/min/dropzone.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flag-icons/css/flag-icons.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/flag-icons/css/flag-icons.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.canvaswrapper.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.canvaswrapper.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.colorhelpers.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.colorhelpers.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.browser.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.browser.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.categories.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.categories.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.drawSeries.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.drawSeries.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.hover.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.hover.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.legend.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.legend.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.navigate.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.navigate.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.pie.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.pie.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.resize.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.resize.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.saturated.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.saturated.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.selection.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.selection.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.symbol.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.time.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.time.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.touch.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.touch.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.touchNavigate.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.touchNavigate.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/flot/source/jquery.flot.uiConstants.js",
+      "PackagePath": "staticwebassets/assets/plugins/flot/source/jquery.flot.uiConstants.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/gritter/css/jquery.gritter.css",
+      "PackagePath": "staticwebassets/assets/plugins/gritter/css/jquery.gritter.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/gritter/images/gritter-light.png",
+      "PackagePath": "staticwebassets/assets/plugins/gritter/images/gritter-light.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/gritter/images/gritter.png",
+      "PackagePath": "staticwebassets/assets/plugins/gritter/images/gritter.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/gritter/images/ie-spacer.gif",
+      "PackagePath": "staticwebassets/assets/plugins/gritter/images/ie-spacer.gif"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/gritter/js/jquery.gritter.js",
+      "PackagePath": "staticwebassets/assets/plugins/gritter/js/jquery.gritter.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/intro.js/minified/intro.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/intro.js/minified/intro.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/intro.js/minified/introjs.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/intro.js/minified/introjs.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/ion-rangeslider/css/ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/ion-rangeslider/css/ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/ion-rangeslider/js/ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/ion-rangeslider/js/ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/ionicons/dist/ionicons/ionicons.js",
+      "PackagePath": "staticwebassets/assets/plugins/ionicons/dist/ionicons/ionicons.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/isotope-layout/dist/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/isotope-layout/dist/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jquery-knob/dist/jquery.knob.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/jquery-knob/dist/jquery.knob.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jquery-migrate/dist/jquery-migrate.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/jquery-migrate/dist/jquery-migrate.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jquery-mockjax/dist/jquery.mockjax.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/jquery-mockjax/dist/jquery.mockjax.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jquery-sparkline/jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/jquery-sparkline/jquery.sparkline.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jquery.maskedinput/src/jquery.maskedinput.js",
+      "PackagePath": "staticwebassets/assets/plugins/jquery.maskedinput/src/jquery.maskedinput.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jstree/dist/jstree.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/jstree/dist/jstree.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jstree/dist/themes/default/32px.png",
+      "PackagePath": "staticwebassets/assets/plugins/jstree/dist/themes/default/32px.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jstree/dist/themes/default/40px.png",
+      "PackagePath": "staticwebassets/assets/plugins/jstree/dist/themes/default/40px.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jstree/dist/themes/default/style.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/jstree/dist/themes/default/style.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jstree/dist/themes/default/throbber.gif",
+      "PackagePath": "staticwebassets/assets/plugins/jstree/dist/themes/default/throbber.gif"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jszip/dist/jszip.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/jszip/dist/jszip.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jvectormap-content/world-mill.js",
+      "PackagePath": "staticwebassets/assets/plugins/jvectormap-content/world-mill.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jvectormap-next/jquery-jvectormap.css",
+      "PackagePath": "staticwebassets/assets/plugins/jvectormap-next/jquery-jvectormap.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/jvectormap-next/jquery-jvectormap.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/jvectormap-next/jquery-jvectormap.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/kbw-countdown/dist/css/jquery.countdown.css",
+      "PackagePath": "staticwebassets/assets/plugins/kbw-countdown/dist/css/jquery.countdown.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/kbw-countdown/dist/js/jquery.countdown.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/kbw-countdown/dist/js/jquery.countdown.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/kbw-countdown/dist/js/jquery.plugin.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/kbw-countdown/dist/js/jquery.plugin.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/lightbox2/dist/css/lightbox.css",
+      "PackagePath": "staticwebassets/assets/plugins/lightbox2/dist/css/lightbox.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/lightbox2/dist/images/loading.gif",
+      "PackagePath": "staticwebassets/assets/plugins/lightbox2/dist/images/loading.gif"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/lightbox2/dist/js/lightbox.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/lightbox2/dist/js/lightbox.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/lity/dist/lity.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/lity/dist/lity.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/lity/dist/lity.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/lity/dist/lity.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/masonry-layout/dist/masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/masonry-layout/dist/masonry.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/moment/min/moment.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/moment/min/moment.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/nvd3/build/nv.d3.css",
+      "PackagePath": "staticwebassets/assets/plugins/nvd3/build/nv.d3.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/nvd3/build/nv.d3.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/nvd3/build/nv.d3.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/parsleyjs/dist/parsley.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/parsleyjs/dist/parsley.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/pdfmake/build/pdfmake.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/pdfmake/build/pdfmake.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/pdfmake/build/vfs_fonts.js",
+      "PackagePath": "staticwebassets/assets/plugins/pdfmake/build/vfs_fonts.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/photoswipe/dist/photoswipe.css",
+      "PackagePath": "staticwebassets/assets/plugins/photoswipe/dist/photoswipe.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/select-picker/dist/picker.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/select-picker/dist/picker.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/select-picker/dist/picker.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/select-picker/dist/picker.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/select2/dist/css/select2.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/select2/dist/css/select2.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/select2/dist/js/select2.full.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/select2/dist/js/select2.full.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/select2/dist/js/select2.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/select2/dist/js/select2.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/simple-line-icons/css/simple-line-icons.css",
+      "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/css/simple-line-icons.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/spectrum-colorpicker2/dist/spectrum.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/spectrum-colorpicker2/dist/spectrum.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/spectrum-colorpicker2/dist/spectrum.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/spectrum-colorpicker2/dist/spectrum.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/summernote/dist/font/summernote.ttf",
+      "PackagePath": "staticwebassets/assets/plugins/summernote/dist/font/summernote.ttf"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/summernote/dist/font/summernote.woff",
+      "PackagePath": "staticwebassets/assets/plugins/summernote/dist/font/summernote.woff"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/summernote/dist/font/summernote.woff2",
+      "PackagePath": "staticwebassets/assets/plugins/summernote/dist/font/summernote.woff2"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/summernote/dist/font/summernoted41d.eot",
+      "PackagePath": "staticwebassets/assets/plugins/summernote/dist/font/summernoted41d.eot"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/summernote/dist/summernote-lite.css",
+      "PackagePath": "staticwebassets/assets/plugins/summernote/dist/summernote-lite.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/summernote/dist/summernote-lite.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/summernote/dist/summernote-lite.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/sweetalert/dist/sweetalert.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/sweetalert/dist/sweetalert.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/switchery/dist/switchery.min.css",
+      "PackagePath": "staticwebassets/assets/plugins/switchery/dist/switchery.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/switchery/dist/switchery.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/switchery/dist/switchery.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/tag-it/css/jquery.tagit.css",
+      "PackagePath": "staticwebassets/assets/plugins/tag-it/css/jquery.tagit.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/tag-it/js/tag-it.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/tag-it/js/tag-it.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/css/bootstrap-editable.css",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/css/bootstrap-editable.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/img/clear.png",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/img/clear.png"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/img/loading.gif",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/img/loading.gif"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/js/bootstrap-editable.min.js",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/bootstrap4-editable/js/bootstrap-editable.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/inputs-ext/address/address.css",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/inputs-ext/address/address.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/inputs-ext/address/address.js",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/inputs-ext/address/address.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/inputs-ext/typeaheadjs/lib/typeahead.js",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/inputs-ext/typeaheadjs/lib/typeahead.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/inputs-ext/typeaheadjs/lib/typeahead.js-bootstrap.css",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/inputs-ext/typeaheadjs/lib/typeahead.js-bootstrap.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/inputs-ext/typeaheadjs/typeaheadjs.js",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/inputs-ext/typeaheadjs/typeaheadjs.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/assets/plugins/x-editable-bs4/dist/inputs-ext/wysihtml5/wysihtml5.js",
+      "PackagePath": "staticwebassets/assets/plugins/x-editable-bs4/dist/inputs-ext/wysihtml5/wysihtml5.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/cdn-cgi/.DS_Store",
+      "PackagePath": "staticwebassets/cdn-cgi/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "PackagePath": "staticwebassets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+      "PackagePath": "staticwebassets/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/cdn.jsdelivr.net/.DS_Store",
+      "PackagePath": "staticwebassets/cdn.jsdelivr.net/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/cdn.lineicons.com/.DS_Store",
+      "PackagePath": "staticwebassets/cdn.lineicons.com/.DS_Store"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/provie17/RNPM/RNPM.Web/wwwroot/vendor/.DS_Store",
+      "PackagePath": "staticwebassets/vendor/.DS_Store"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.RNPM.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.RNPM.Web.props",
+      "PackagePath": "build\\RNPM.Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RNPM.Web.props",
+      "PackagePath": "buildMultiTargeting\\RNPM.Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RNPM.Web.props",
+      "PackagePath": "buildTransitive\\RNPM.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

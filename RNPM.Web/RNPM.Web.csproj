@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\.DS_Store" />
+    <Content Include="wwwroot\assets\.DS_Store" />
+    <Content Include="wwwroot\assets\img\.DS_Store" />
+    <Content Include="wwwroot\assets\js\.DS_Store" />
+    <Content Include="wwwroot\assets\js\demo\.DS_Store" />
+    <Content Include="wwwroot\cdn-cgi\.DS_Store" />
+    <Content Include="wwwroot\cdn.jsdelivr.net\.DS_Store" />
+    <Content Include="wwwroot\cdn.lineicons.com\.DS_Store" />
+    <Content Include="wwwroot\vendor\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCoreHero.ToastNotification" Version="1.1.0" />
+    <PackageReference Include="IdentityModel" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Serilog" Version="4.0.1" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.2" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="26.2.14" />
+    <PackageReference Include="Syncfusion.Licensing" Version="26.2.14" />
+    <PackageReference Include="WebMarkupMin.AspNetCore8" Version="2.17.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Home\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Home\Privacy.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\Error.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_HomeOneHeader.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_Layout.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_PageHeadElement.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_TopBar.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\_ViewImports.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\_ViewStart.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RNPM.Common\RNPM.Common.csproj" />
+  </ItemGroup>
+
+</Project>
